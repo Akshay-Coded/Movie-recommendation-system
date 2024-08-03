@@ -52,7 +52,7 @@ You can customize the recommender system by:
   - Add a web interface using frameworks like Flask or Django to make the application more interactive and user-friendly. This will allow users to input preferences and receive recommendations directly from a web browser.
 
 ## Results
-![Alt Text](ss1.png)
+
 ![Alt Text](ss2.png)
 ![Alt Text](ss3.png)
 ![Alt Text](ss4.png)
